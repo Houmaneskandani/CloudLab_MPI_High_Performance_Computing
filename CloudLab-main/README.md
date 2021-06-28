@@ -1,5 +1,5 @@
-# CloudLab
-This is a project comparing TCP/IP vs. RDMA (RoCE) protocols with MPI workloads on a arm64 cluster.
+### CloudLab
+* This is a project comparing TCP/IP vs. RDMA (RoCE) protocols with MPI workloads on a arm64 cluster.
 ### Files
 ```bash
 * cloudlab-arm-lan     # Source code conig for a LAN network of arm64 m400 servers in CloudLab.
