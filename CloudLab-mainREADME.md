@@ -1,4 +1,4 @@
-### CloudLab
+# CloudLab_MPI
 * This is a project comparing TCP/IP vs. RDMA (RoCE) protocols with MPI workloads on a arm64 cluster.
 ### Files
 ```bash
